@@ -1,0 +1,459 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200912045324
+Username: WINDOWSPWNED\opc
+RunAs User: WINDOWSPWNED\opc
+Configuration Name: 
+Machine: WINDOWSPWNED (Microsoft Windows NT 10.0.17763.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 52072
+PSVersion: 5.1.17763.1007
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17763.1007
+BuildVersion: 10.0.17763.1007
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+---------------------------------------------------------------
+---------------------------------------------------------------
+Procurando no qwant
+---------------------------------------------------------------
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:100 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:100 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:100 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:100 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:100 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:100 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:100 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:100 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:116 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:116 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:116 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:116 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:116 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:116 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:116 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:116 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:129 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:129 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:129 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:129 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:129 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:129 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+PS>TerminatingError(Invoke-RestMethod): "The remote server returned an error: (429) Too Many Requests."
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:129 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+Invoke-RestMethod : The remote server returned an error: (429) Too Many Requests.
+At C:\Users\opc\dorker\ir4dork.ps1:129 char:11
++ $Result = Invoke-RestMethod $uri -UserAgent $userAgent
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-RestMethod], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeRestMethodCommand
+
+---------------------------------------------------------------
+Procurando no exalead
+---------------------------------------------------------------
+PS>TerminatingError(Invoke-WebRequest): "The remote server returned an error: (500) Internal Server Error."
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:141 char:11
++ $HTMLex = iwr "http://www.exalead.com/search/web/results/?q=$user" -U ...
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:141 char:11
++ $HTMLex = iwr "http://www.exalead.com/search/web/results/?q=$user" -U ...
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:142 char:1
++ ($HTMLex.ParsedHtml.getElementsByTagName("a") | Where{ $_.className - ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:142 char:1
++ ($HTMLex.ParsedHtml.getElementsByTagName("a") | Where{ $_.className - ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+>> TerminatingError(Invoke-WebRequest): "The remote server returned an error: (500) Internal Server Error."
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:144 char:12
++ $HTMLex1 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:144 char:12
++ $HTMLex1 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:145 char:1
++ ($HTMLex1.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:145 char:1
++ ($HTMLex1.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+>> TerminatingError(Invoke-WebRequest): "The remote server returned an error: (500) Internal Server Error."
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:147 char:12
++ $HTMLex2 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:147 char:12
++ $HTMLex2 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:148 char:1
++ ($HTMLex2.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:148 char:1
++ ($HTMLex2.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+>> TerminatingError(Invoke-WebRequest): "The remote server returned an error: (500) Internal Server Error."
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:150 char:12
++ $HTMLex3 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:150 char:12
++ $HTMLex3 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:151 char:1
++ ($HTMLex3.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:151 char:1
++ ($HTMLex3.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+>> TerminatingError(Invoke-WebRequest): "The remote server returned an error: (500) Internal Server Error."
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:153 char:12
++ $HTMLex4 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:153 char:12
++ $HTMLex4 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:154 char:1
++ ($HTMLex4.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:154 char:1
++ ($HTMLex4.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+>> TerminatingError(Invoke-WebRequest): "The remote server returned an error: (500) Internal Server Error."
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:156 char:12
++ $HTMLex5 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:156 char:12
++ $HTMLex5 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:157 char:1
++ ($HTMLex5.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:157 char:1
++ ($HTMLex5.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+>> TerminatingError(Invoke-WebRequest): "The remote server returned an error: (500) Internal Server Error."
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:159 char:12
++ $HTMLex6 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:159 char:12
++ $HTMLex6 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:160 char:1
++ ($HTMLex6.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:160 char:1
++ ($HTMLex6.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+>> TerminatingError(Invoke-WebRequest): "The remote server returned an error: (500) Internal Server Error."
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:162 char:12
++ $HTMLex7 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], 
+WebException
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+iwr : The remote server returned an error: (500) Internal Server Error.
+At C:\Users\opc\dorker\ir4dork.ps1:162 char:12
++ $HTMLex7 = iwr "http://www.exalead.com/search/web/results/?q=$user&el ...
++            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:163 char:1
++ ($HTMLex7.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+You cannot call a method on a null-valued expression.
+At C:\Users\opc\dorker\ir4dork.ps1:163 char:1
++ ($HTMLex7.ParsedHtml.getElementsByTagName('a') | Where{ $_.className  ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+
+--------------------
+Procurando no ecosia.org
+--------------------
+--------------------
+Procurando no ask.com
+--------------------
+**********************
+Windows PowerShell transcript end
+End time: 20200912045352
+**********************
